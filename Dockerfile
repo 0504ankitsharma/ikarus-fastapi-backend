@@ -19,7 +19,6 @@ RUN pip install --no-cache-dir --upgrade pip && \
 # Copy application code
 COPY ./app ./app
 COPY ./data ./data
-COPY .env .env
 
 # Expose port
 EXPOSE 7860
