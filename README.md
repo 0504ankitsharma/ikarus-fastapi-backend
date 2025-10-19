@@ -1,15 +1,15 @@
 ---
 
-title: Furniture Product Recommendation API
-emoji: 🛋️
-colorFrom: blue
-colorTo: purple
-sdk: docker
+title: "Furniture Product Recommendation API"
+emoji: "🛋️"
+colorFrom: "blue"
+colorTo: "purple"
+sdk: "docker"
 sdk_version: "3.11"
-app_file: app/main.py
+app_file: "app/main.py"
 pinned: false
-license: mit
-------------
+license: "mit"
+--------------
 
 # 🛋️ Furniture Product Recommendation API
 
